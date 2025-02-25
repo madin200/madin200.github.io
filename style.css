@@ -178,7 +178,7 @@ header {
 }
 
 header .logo-container {
-  font-size: clamp(2rem, 2vw, 3rem);
+  font-size: clamp(3rem, 2vw, 4rem);
 }
 
 .container {
@@ -197,13 +197,13 @@ header .logo-container {
 }
 
 .container main .main-text h1 {
-  font-size: clamp(2rem, 2vw, 3rem);
+  font-size: clamp(3rem, 2vw, 4rem);
 }
 .container main .main-text h2 {
-  font-size: clamp(0.8rem, 2vw, 1rem);
+  font-size: clamp(1rem, 2vw, 2rem);
 }
 .container main .main-text p {
-  font-size: clamp(0.5rem, 2vw, 0.8rem);
+  font-size: clamp(1rem, 2vw, 1.5rem);
 }
 
 footer {
@@ -225,7 +225,7 @@ footer .tech-stack-title h2 {
 footer .tech-stack-icon ul li {
   display: inline-block;
   padding: 1rem;
-  font-size: clamp(1rem, 2vw, 2rem);
+  font-size: clamp(2rem, 2vw, 3rem);
 }
 /* 
 
