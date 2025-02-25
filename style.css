@@ -178,7 +178,7 @@ header {
 }
 
 header .logo-container {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .container {
@@ -197,13 +197,13 @@ header .logo-container {
 }
 
 .container main .main-text h1 {
-  font-size: 4rem;
-}
-.container main .main-text h2 {
   font-size: 2.5rem;
 }
+.container main .main-text h2 {
+  font-size: 1rem;
+}
 .container main .main-text p {
-  font-size: 1.5rem;
+  font-size: 0.8rem;
 }
 
 footer {
@@ -219,13 +219,13 @@ footer {
 }
 
 footer .tech-stack-title h2 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 footer .tech-stack-icon ul li {
   display: inline-block;
   padding: 1rem;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 /* 
 
